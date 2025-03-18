@@ -1,0 +1,35 @@
+.container1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.container2{
+    height: 50vh;
+    width: 50vw;
+    background-color: blue;
+}
+
+.parent{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+
+.child{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+}
+
+.grand_child{
+    height: 50%;
+    width: 50%;
+    background-color: brown;
+}
+
+.nested_grand{
+    height: 50%;
+    width: 50%;
+    background-color: yellow;
+}
